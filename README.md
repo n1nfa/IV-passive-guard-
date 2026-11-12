@@ -6,7 +6,7 @@ A single-file, offline-capable simulator of PassiveGuard, a battery-free mechani
 (silicone membrane → lever → green / yellow / red). It covers two applications: IV Guardian (IV infiltration /
 extravasation) and TraumaGate (vented chest seal).
 
-**Live demo:** https://n1nfa.github.io/IV-passive-guard-/ (GitHub Pages, served from `main` / root).
+**Live demo:** https://n1nfa.github.io/IV-passive-guard-/ (GitHub Pages, served from the `gh-pages` branch).
 You can also download `index.html` and open it in any modern browser; no server, install or internet is needed.
 
 ## What this is, and what it is not
